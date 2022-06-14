@@ -1,2 +1,1 @@
-# alura-challenge-devops-01
-Primeira semana do Challenge de DevOps da Alura #alurachallengedevops1
+## SEMANA 01 - Aplicação Django em container Docker
